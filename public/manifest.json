@@ -1,0 +1,9 @@
+{
+  "name": "IRONFLOW",
+  "short_name": "IRONFLOW",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030503",
+  "theme_color": "#030503",
+  "icons": []
+}
